@@ -28,4 +28,3 @@ out
 *.iws
 *.iml
 atlassian-ide-plugin.xml
-/.idea/vcs.xml
